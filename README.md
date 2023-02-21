@@ -1,6 +1,3 @@
-# Data-Visualization---Communicating-Data-Findings
-Final project from the UdacityALX Data Analyst NanoDegree
-
 # Ford GoBike Dataset Exploration Title
 ## by Stella Njeru
 
